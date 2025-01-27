@@ -1,6 +1,6 @@
 local fish = game:GetService("ReplicatedStorage"):WaitForChild("resources"):WaitForChild("animations"):WaitForChild("fish")
 tab = {}
-tab.FISHDATA = {
+return tab.FISHDATA = {
   Tire = {
     WeightPool = {110, 110};
     Chance = 17;
